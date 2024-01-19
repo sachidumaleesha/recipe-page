@@ -1,6 +1,6 @@
 # Frontend Mentor - Recipe page
 
-![Design preview for the Recipe page coding challenge](./design/desktop-preview.jpg)
+![desktop-preview](https://github.com/sachidumaleesha/recipe-page/assets/45502921/d3637fd1-835b-4ce4-ae00-2fcd8a0483fb)
 
 ## Welcome! 👋
 
